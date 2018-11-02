@@ -1,0 +1,13 @@
+h1,h2,h3{
+    color: red;
+}
+li strong {
+     font-style: italic;
+     font-weight: normal;
+ }
+p{
+    width: 100px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow:hidden;
+}
